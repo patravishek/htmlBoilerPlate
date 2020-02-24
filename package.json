@@ -2,7 +2,18 @@
 	"name": "htmlBoilerPlate",
 	"displayName": "HtmlBoilerPlate",
 	"description": "Create Html, CSS, JS template",
-	"version": "0.0.1",
+	"repository": {
+		"url": "https://github.com/patravishek/htmlBoilerPlate",
+		"directory": "develop",
+		"type": "OSS"
+	},
+	"author": {
+		"email": "avishek.patra@outlook.com",
+		"name": "Avishek Patra",
+		"url": "http://www.codeittechnologies.com"
+	},
+	"publisher": "AvishekPatra",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.42.0"
 	},
